@@ -14,7 +14,8 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="JS" src = "https://img.shields.io/badge/JS-ED8B00?style=for-the-badge&logo=js&logoColor=white"
 </div><br/>
-Apaixonado por tecnologia em programação, descobrindo o mundo flutter, gosto de novos desafios.
+Apaixonado por tecnologia e programação, pai da pequena Melissa, viciado em Café e Coca-cola. Busco constante desenvolvimento, ainda iniciante.
+    Bem vindo aos meus projetos em Java, React e React Native.
 <br/>
 
 ### Educação
