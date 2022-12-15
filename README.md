@@ -17,8 +17,7 @@
     
 </div><br/>
 
-Apaixonado por tecnologia e programação, pai da pequena Melissa, viciado em Café e Coca-cola. Busco constante desenvolvimento, ainda iniciante.
-    Bem vindo aos meus projetos em Java, React e React Native.
+Apaixonado por programação, afixionado por jogos arcade, Pai da pequena Melissa, Desenvolvedor Web Mobile Junior, em transição de carreira.
 <br/>
 
 ### Educação
